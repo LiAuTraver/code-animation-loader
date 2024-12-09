@@ -1,7 +1,10 @@
 {
   "name": "code-animation-loader",
-  "displayName": "code-animation-loader",
-  "description": "",
+  "displayName": "Code Animation Loader",
+  "description": "Simple extension to load custom JS and CSS files into VSCode",
+  "author": {
+    "name": "LiAuTraver"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
@@ -63,5 +66,9 @@
     "typescript": "^5.6.3",
     "@vscode/test-cli": "^0.0.10",
     "@vscode/test-electron": "^2.4.1"
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/liautraver/code-animation-loader.git"
+}
 }
